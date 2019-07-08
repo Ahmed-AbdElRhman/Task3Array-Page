@@ -1,0 +1,11 @@
+F:\Web_course\Tasks\Task3_numPerPage\bin\Debug\netcoreapp2.2\Task3_numPerPage.deps.json
+F:\Web_course\Tasks\Task3_numPerPage\bin\Debug\netcoreapp2.2\Task3_numPerPage.runtimeconfig.json
+F:\Web_course\Tasks\Task3_numPerPage\bin\Debug\netcoreapp2.2\Task3_numPerPage.runtimeconfig.dev.json
+F:\Web_course\Tasks\Task3_numPerPage\bin\Debug\netcoreapp2.2\Task3_numPerPage.dll
+F:\Web_course\Tasks\Task3_numPerPage\bin\Debug\netcoreapp2.2\Task3_numPerPage.pdb
+F:\Web_course\Tasks\Task3_numPerPage\obj\Debug\netcoreapp2.2\Task3_numPerPage.csprojAssemblyReference.cache
+F:\Web_course\Tasks\Task3_numPerPage\obj\Debug\netcoreapp2.2\Task3_numPerPage.csproj.CoreCompileInputs.cache
+F:\Web_course\Tasks\Task3_numPerPage\obj\Debug\netcoreapp2.2\Task3_numPerPage.AssemblyInfoInputs.cache
+F:\Web_course\Tasks\Task3_numPerPage\obj\Debug\netcoreapp2.2\Task3_numPerPage.AssemblyInfo.cs
+F:\Web_course\Tasks\Task3_numPerPage\obj\Debug\netcoreapp2.2\Task3_numPerPage.dll
+F:\Web_course\Tasks\Task3_numPerPage\obj\Debug\netcoreapp2.2\Task3_numPerPage.pdb

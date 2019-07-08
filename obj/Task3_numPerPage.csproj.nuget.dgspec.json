@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Web_course\\Tasks\\Task3_numPerPage\\Task3_numPerPage.csproj": {}
+  },
+  "projects": {
+    "F:\\Web_course\\Tasks\\Task3_numPerPage\\Task3_numPerPage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Web_course\\Tasks\\Task3_numPerPage\\Task3_numPerPage.csproj",
+        "projectName": "Task3_numPerPage",
+        "projectPath": "F:\\Web_course\\Tasks\\Task3_numPerPage\\Task3_numPerPage.csproj",
+        "packagesPath": "C:\\Users\\Ahmed\\.nuget\\packages\\",
+        "outputPath": "F:\\Web_course\\Tasks\\Task3_numPerPage\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
